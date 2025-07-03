@@ -30,6 +30,15 @@ Tenho experiência com tecnologia a mais de 5 anos, suporte HelpDesk N1/N2 e Sec
     src="https://devicon-website.vercel.app/api/python/original-wordmark.svg"
 />
 
+<img
+    align="left"
+    alt="Puty"
+    title="Puty"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/putty/original.svg"
+/>    
+
 <br/>
 <br/>
 
