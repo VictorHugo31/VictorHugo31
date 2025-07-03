@@ -1,7 +1,7 @@
 ## 🖥️ Victor Hugo
 **`Security-Driven Developer`**
 
-Tenho experiência com tecnologia a mais de 5 anos, tenho grande experiência em suporte HelpDesk N1/N2 e Security-Driven Developer.
+Tenho experiência com tecnologia a mais de 5 anos, suporte HelpDesk N1/N2 e Security-Driven Developer.
 ---
 ### 🤖 Linguagens e Tecnologias
 
