@@ -3,6 +3,8 @@
 
 Tenho experiência com tecnologia a mais de 5 anos, suporte HelpDesk N1/N2 e Security-Driven Developer.
 ---
+Fatos importantes: Meu maior defeito e não desistir!🤯 | Com grande orgulho eu me formo em dezembro de 2025 em Sistemas da Informação!🙌
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img
