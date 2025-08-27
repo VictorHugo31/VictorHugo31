@@ -32,6 +32,24 @@ Tenho experiência com tecnologia a mais de 5 anos, suporte HelpDesk N1/N2 e Sec
 
 <img
     align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/react/original.svg"
+/>
+
+<img
+    align="left"
+    alt="MySql"
+    title="MySql"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/mysql/original.svg"
+/>
+
+<img
+    align="left"
     alt="Puty"
     title="Puty"
     width="30px"
