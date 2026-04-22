@@ -1,12 +1,18 @@
-## 🖥️ Victor Hugo
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b79ef32c-9670-4c02-bf57-16263938ec89" />## 🖥️ Victor Hugo
 **`Security-Driven Developer`**
 
-Tenho experiência com tecnologia a mais de 5 anos, suporte HelpDesk N1/N2 e Security-Driven Developer.
----
-Fatos importantes: Meu maior defeito e não desistir!🤯 | Com grande orgulho eu me formo em dezembro de 2025 em Sistemas da Informação!🙌
+Experiência com tecnologia a mais de 5 anos, suporte HelpDesk, Cloud e DevOps.
 ---
 ### 🤖 Linguagens e Tecnologias
 
+<img
+    align="left"
+    alt="Cloud"
+    title="Cloud"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=n-6PakmAMkgj&format=png&color=000000"
+/>
 <img
     align="left"
     alt="javascript"
