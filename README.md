@@ -1,7 +1,7 @@
 🖥️ Victor Hugo
 **`Security-Driven Developer`**
 
-Experiência com tecnologia a mais de 5 anos, suporte HelpDesk, Cloud e DevOps.
+Profissional de TI com experiência em HelpDesk e DevOps . No momento, desenvolvo soluções de monitoramento Cloud e automação para problemas contábeis.
 ---
 ### 🤖 Linguagens e Tecnologias
 
@@ -54,16 +54,7 @@ Experiência com tecnologia a mais de 5 anos, suporte HelpDesk, Cloud e DevOps.
     width="30px"
     style="padding-right: 10px;"
     src="https://devicon-website.vercel.app/api/mysql/original.svg"
-/>
-
-<img
-    align="left"
-    alt="Puty"
-    title="Puty"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://devicon-website.vercel.app/api/putty/original.svg"
-/>    
+/>   
 
 <br/>
 <br/>
