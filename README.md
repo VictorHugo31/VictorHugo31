@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b79ef32c-9670-4c02-bf57-16263938ec89" />## 🖥️ Victor Hugo
+🖥️ Victor Hugo
 **`Security-Driven Developer`**
 
 Experiência com tecnologia a mais de 5 anos, suporte HelpDesk, Cloud e DevOps.
@@ -11,7 +11,7 @@ Experiência com tecnologia a mais de 5 anos, suporte HelpDesk, Cloud e DevOps.
     title="Cloud"
     width="30px"
     style="padding-right: 10px;"
-    src="https://img.icons8.com/?size=100&id=n-6PakmAMkgj&format=png&color=000000"
+    src="https://github.com/user-attachments/assets/b79ef32c-9670-4c02-bf57-16263938ec89"
 />
 <img
     align="left"
